@@ -1,0 +1,4 @@
+fdisk -l
+list disk
+
+fdisk /dev/sdb
